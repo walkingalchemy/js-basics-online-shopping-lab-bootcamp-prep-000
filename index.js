@@ -61,7 +61,7 @@ function removeFromCart(item) {
       return cart
     }
   }
-  console.log("That item is not in your cart.")  
+  console.log("That item is not in your cart.")
   /*
   for (let i = 0; i < cart.length; i++) {
       if (cart[i].hasOwnProperty(item) ) {
